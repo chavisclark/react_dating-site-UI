@@ -55,3 +55,6 @@ I went ahead and set this project up with Redux. I have not fully implemented th
 -reducers
 -constants
 ```
+
+##### Made with 💚 from my basement 
+— C.C.
